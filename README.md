@@ -1,6 +1,7 @@
 # scientific-calculator
 scientific calculator with CUI.  
 coded and built with Microsoft VS 2022.
+いわゆる「関数電卓」のベータバージョン  
 
 # Credit
 code by @MrSulmonNX
